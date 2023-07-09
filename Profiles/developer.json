@@ -13,7 +13,7 @@
         {"name": "dotnet4.7.2"},
         {
             "name": "git",
-            "args": "--params \'/GitOnlyOnPath /NoShellIntegration\'"
+            "args": "--params \'/GitOnlyOnPath /NSohellIntegration\'"
         },
         {"name": "visualstudio2019community"},
         {"name": "visualstudio2019buildtools"},
